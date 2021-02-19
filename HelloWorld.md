@@ -2,7 +2,9 @@
 title: "HelloWorld.md"
 author: "You"
 date: "19 de febrero de 2021"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 `
